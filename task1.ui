@@ -6,14 +6,13 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
-    <height>300</height>
+    <width>416</width>
+    <height>543</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>Текстовый флаг</string>
   </property>
-  <!-- УДАЛЕНО: <property name="sizeGripEnabled"><bool>false</bool></property> -->
   <widget class="QWidget" name="centralwidget">
    <layout class="QVBoxLayout" name="verticalLayout">
     <item>
@@ -158,7 +157,7 @@
     <item>
      <widget class="QLabel" name="label">
       <property name="text">
-       <string>Выберите цвета и нажмите "Нарисовать"</string>
+       <string>Выберите цвета и нажмите &quot;Нарисовать&quot;</string>
       </property>
       <property name="alignment">
        <set>Qt::AlignCenter</set>
